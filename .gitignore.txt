@@ -1,0 +1,12 @@
+#pyhton
+--pycache--/
+*.pyc
+venv/
+.env
+
+#Jupyter
+.ipnb_checkpoints/
+
+# data
+*.SQLite
+.ds_store
